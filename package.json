@@ -1,0 +1,26 @@
+{
+  "name": "korea-ai-security-summit-2025",
+  "version": "1.0.0",
+  "description": "2025 Korea AI & Security Summit - APEC 경주 정상회의",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "korea",
+    "ai",
+    "security",
+    "apec",
+    "summit"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "compression": "^1.7.4"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
